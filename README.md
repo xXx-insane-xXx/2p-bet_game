@@ -9,3 +9,6 @@
 4. First to reach => 50 wins (all players will get equal turns so draw is possible) <br>
 5. Undo and redo turns feature implementation <br>
 6. Saving each game state using python classes <br>
+
+*LANGUAGE TO USE*:
+Python cause it would less pain :)
